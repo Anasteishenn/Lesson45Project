@@ -3,5 +3,5 @@
 using namespace std;
 
 void rand_init(int* array, int size, int bound) {
-
+array[i]=rand()%bound;
 }
